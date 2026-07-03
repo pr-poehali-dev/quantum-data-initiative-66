@@ -32,7 +32,7 @@ const BLOCKS = [
 
 export default function ProgramSection() {
   return (
-    <section id="program" className="relative bg-[#1a0510] py-20 px-6 md:px-12 border-t border-white/5">
+    <section id="program" className="relative bg-[#3d1224] py-20 px-6 md:px-12 border-t border-white/5">
       <div className="max-w-5xl mx-auto">
         <h2 className="text-3xl md:text-4xl font-light text-white text-center mb-14">
           Что <span className="font-medium italic">внутри курса</span>

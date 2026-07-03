@@ -1,6 +1,6 @@
 export default function BuySection() {
   return (
-    <section id="buy" className="relative bg-[#1a0510] py-24 px-6 md:px-12 border-t border-white/5">
+    <section id="buy" className="relative bg-[#3d1224] py-24 px-6 md:px-12 border-t border-white/5">
       <div className="max-w-2xl mx-auto text-center">
         <span className="text-[#d6669a] text-xs uppercase tracking-widest font-medium">
           Доступ 3 месяца

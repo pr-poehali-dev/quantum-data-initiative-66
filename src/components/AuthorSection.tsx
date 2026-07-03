@@ -1,6 +1,6 @@
 export default function AuthorSection() {
   return (
-    <section className="relative bg-[#1a0510] py-20 px-6 md:px-12">
+    <section className="relative bg-[#3d1224] py-20 px-6 md:px-12">
       <div className="max-w-5xl mx-auto grid md:grid-cols-[280px_1fr] gap-10 items-center">
         <div className="mx-auto md:mx-0">
           <img

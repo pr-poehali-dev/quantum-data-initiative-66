@@ -18,7 +18,7 @@ const AUDIENCE = [
 
 export default function ResultsSection() {
   return (
-    <section className="relative bg-[#1a0510] py-20 px-6 md:px-12 border-t border-white/5">
+    <section className="relative bg-[#3d1224] py-20 px-6 md:px-12 border-t border-white/5">
       <div className="max-w-5xl mx-auto grid md:grid-cols-2 gap-12">
         <div>
           <h2 className="text-2xl md:text-3xl font-light text-white mb-8">

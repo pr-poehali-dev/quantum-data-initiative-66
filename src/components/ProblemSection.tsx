@@ -7,7 +7,7 @@ const DIAGNOSES = [
 
 export default function ProblemSection() {
   return (
-    <section className="relative bg-[#1a0510] py-20 px-6 md:px-12 border-t border-white/5">
+    <section className="relative bg-[#3d1224] py-20 px-6 md:px-12 border-t border-white/5">
       <div className="max-w-4xl mx-auto text-center">
         <h2 className="text-3xl md:text-5xl font-light text-white mb-6 leading-tight">
           <span className="font-medium italic">20+ женских диагнозов.</span>
