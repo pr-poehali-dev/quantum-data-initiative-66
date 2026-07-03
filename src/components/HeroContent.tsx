@@ -16,7 +16,7 @@ export default function HeroContent() {
 
         {/* Main Heading */}
         <h1 className="text-4xl md:text-6xl md:leading-16 tracking-tight font-light text-white mb-4 drop-shadow-lg">
-          <span className="font-medium italic text-[#8b0a3d]">Женские диагнозы:</span>
+          <span className="font-medium italic text-[#8b0a3d] text-5xl md:text-7xl">Женские диагнозы:</span>
           <br />
           <span className="font-light tracking-tight text-white">исцеление через осознание</span>
         </h1>
