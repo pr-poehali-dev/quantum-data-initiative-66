@@ -10,7 +10,7 @@ export default function HeroContent() {
         >
           <div className="absolute top-0 left-1 right-1 h-px bg-gradient-to-r from-transparent via-white/30 to-transparent rounded-full" />
           <span className="text-white text-xs font-medium relative z-10">
-            Онлайн-курс · доступ 3 месяца
+            Онлайн-интенсив · доступ сразу
           </span>
         </div>
 
