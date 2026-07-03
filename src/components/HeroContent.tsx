@@ -3,26 +3,26 @@ export default function HeroContent() {
     <main className="absolute bottom-8 left-8 z-20 max-w-xl">
       <div className="text-left">
         <div
-          className="inline-flex items-center px-3 py-1 rounded-full bg-white/5 backdrop-blur-sm mb-4 relative"
+          className="inline-flex items-center px-3 py-1 rounded-full bg-black/30 backdrop-blur-sm mb-4 relative"
           style={{
             filter: "url(#glass-effect)",
           }}
         >
-          <div className="absolute top-0 left-1 right-1 h-px bg-gradient-to-r from-transparent via-white/20 to-transparent rounded-full" />
-          <span className="text-white/90 text-xs font-light relative z-10">
+          <div className="absolute top-0 left-1 right-1 h-px bg-gradient-to-r from-transparent via-white/30 to-transparent rounded-full" />
+          <span className="text-white text-xs font-medium relative z-10">
             Онлайн-курс · доступ 3 месяца
           </span>
         </div>
 
         {/* Main Heading */}
-        <h1 className="text-4xl md:text-6xl md:leading-16 tracking-tight font-light text-white mb-4">
+        <h1 className="text-4xl md:text-6xl md:leading-16 tracking-tight font-light text-white mb-4 drop-shadow-lg">
           <span className="font-medium italic">Женские диагнозы:</span>
           <br />
           <span className="font-light tracking-tight text-white">исцеление через осознание</span>
         </h1>
 
         {/* Description */}
-        <p className="text-sm font-light text-white/70 mb-6 leading-relaxed">
+        <p className="text-sm font-normal text-white mb-6 leading-relaxed drop-shadow-md">
           20+ женских диагнозов. 1 курс. Реальные причины и работающие инструменты.
           Психосоматика, подкаст-проработка и сеансы космоэнергетики от Марины Берг —
           клинического психолога с 15-летним стажем. Уберите первопричину, а не симптомы.
