@@ -4,7 +4,7 @@ export default function AuthorSection() {
       <div className="max-w-5xl mx-auto grid md:grid-cols-[280px_1fr] gap-10 items-center">
         <div className="mx-auto md:mx-0">
           <img
-            src="https://cdn.poehali.dev/projects/1e55c628-df72-4918-bf2b-410978c8d4eb/bucket/4d6bb6f7-4811-4edc-8ce0-7b939d092e2e.png"
+            src="https://cdn.poehali.dev/projects/1e55c628-df72-4918-bf2b-410978c8d4eb/bucket/5b3af238-3bbd-49f1-8e9b-d63a8138b352.png"
             alt="Марина Берг"
             className="w-56 h-56 md:w-64 md:h-64 object-cover rounded-full border border-white/10 shadow-2xl"
           />
