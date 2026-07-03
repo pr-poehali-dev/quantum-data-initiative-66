@@ -38,13 +38,15 @@ export default function HeroContent() {
           <button className="px-8 py-3 rounded-full bg-transparent border border-white/30 text-white font-normal text-xs transition-all duration-200 hover:bg-white/10 hover:border-white/50 cursor-pointer">
             Программа курса
           </button>
-          <span className="text-white text-sm font-medium drop-shadow-md">
-            <span className="line-through text-white/60 mr-2">15000 руб</span>
-            9999 руб
-          </span>
           <button className="px-8 py-3 rounded-full bg-white text-black font-normal text-xs transition-all duration-200 hover:bg-white/90 cursor-pointer">
             Приобрести
           </button>
+        </div>
+
+        {/* Price */}
+        <div className="mt-4 text-white text-sm font-medium drop-shadow-md">
+          <span className="line-through text-white/60 mr-2">15000 руб</span>
+          9999 руб
         </div>
       </div>
     </main>
