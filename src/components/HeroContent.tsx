@@ -42,12 +42,6 @@ export default function HeroContent() {
             Приобрести
           </button>
         </div>
-
-        {/* Price */}
-        <div className="mt-4 text-white text-sm font-medium drop-shadow-md">
-          <span className="line-through text-white/60 mr-2">15000 руб</span>
-          9999 руб
-        </div>
       </div>
     </main>
   )
