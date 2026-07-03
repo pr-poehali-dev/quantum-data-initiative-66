@@ -1,6 +1,5 @@
 import ShaderBackground from "@/components/ShaderBackground"
 import HeroContent from "@/components/HeroContent"
-import PulsingCircle from "@/components/PulsingCircle"
 import Header from "@/components/Header"
 import AuthorSection from "@/components/AuthorSection"
 import ProblemSection from "@/components/ProblemSection"
@@ -14,7 +13,6 @@ const Index = () => {
       <ShaderBackground>
         <Header />
         <HeroContent />
-        <PulsingCircle />
       </ShaderBackground>
       <AuthorSection />
       <ProblemSection />
